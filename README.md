@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Todo List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This application is a simple Todo List manager built using React. It allows users to create, update, and delete tasks.
 
-## Available Scripts
+## Components
+1. **App Component**
+    - Responsible for rendering the main TodoList component.
+2. **TodoList Component**
+    - Manages the list of tasks.
+    - Renders the list of tasks and handles task creation, deletion, and updating.
+3. **Card Component**
+    - Represents individual tasks in the list.
+    - Displays task details and provides options for editing and deleting tasks.
+4. **CreateTaskPopup Component**
+    - Modal popup for creating a new task.
+    - Allows users to input task name and description.
+5. **EditTaskPopup Component**
+    - Modal popup for editing an existing task.
+    - Allows users to modify task name and description.
 
-In the project directory, you can run:
+## Functionality
+- **Task Management**
+    - Users can create new tasks by clicking on the "Create Task" button.
+    - Each task is displayed with its name and description.
+    - Tasks can be edited or deleted using the corresponding icons.
+- **LocalStorage**
+    - Task data is stored locally using the browser's localStorage API.
+    - Tasks persist across page reloads.
 
-### `npm start`
+## Usage
+1. **Getting Started**
+    - Clone the repository or download the source code.
+    - Install dependencies using npm or yarn.
+    - Run the application using `npm start` or `yarn start`.
+2. **Adding Tasks**
+    - Click on the "Create Task" button.
+    - Enter the task name and description in the popup.
+    - Click "Create" to add the task to the list.
+3. **Editing Tasks**
+    - Click on the edit icon next to the task you want to edit.
+    - Modify the task name or description in the popup.
+    - Click "Update" to save the changes.
+4. **Deleting Tasks**
+    - Click on the delete icon next to the task you want to delete.
+    - Confirm the deletion in the confirmation dialog.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Dependencies
+- React
+- Reactstrap
+- Bootstrap
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Conclusion
+This Markdown document provides an overview of the Todo List application, its components, functionality, and usage instructions. Users can refer to this document to understand how to use the application effectively.
