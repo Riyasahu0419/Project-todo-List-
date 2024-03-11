@@ -30,9 +30,9 @@ This application is a simple Todo List manager built using React. It allows user
 
 ## Usage
 1. **Getting Started**
-    - Clone the repository or download the source code.
-    - Install dependencies using npm or yarn.
-    - Run the application using `npm start` or `yarn start`.
+    - Clone the repository.
+    - Install dependencies using npm .
+    - Run the application using `npm start`.
 2. **Adding Tasks**
     - Click on the "Create Task" button.
     - Enter the task name and description in the popup.
