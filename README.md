@@ -52,9 +52,8 @@ This application is a simple Todo List manager built using React. It allows user
 
 ## For Example
 - Here we can se that , How its working
-  # Go Live
--  https://project-todo-list-vert.vercel.app/
-- You can visit this project by clicking here  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxRMsNJ-SPyDE56EvP5u_Saz38WHfTLkxJzA&usqp=CAU" width="35">
+  # Go Live -  https://project-todo-list-vert.vercel.app/
+- You can visit this project by clicking here  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxRMsNJ-SPyDE56EvP5u_Saz38WHfTLkxJzA&usqp=CAU" width="20">
 
 
 
