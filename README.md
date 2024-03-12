@@ -53,14 +53,13 @@ This application is a simple Todo List manager built using React. It allows user
 ## For Example
 - Here we can se that , How its working
   # Go Live
-  <<a href="https://project-todo-list-vert.vercel.app/" target="_blank">
+  <a href="https://project-todo-list-vert.vercel.app/" target="_blank">
 - You can visit this project by clicking here  <img src="" width="35">
 
 
 
- ![Todo List](https://drive.google.com/file/d/1MctrikTixtz9DG10Ec5FdfRdml08we1B/view?usp=sharing)
 
-
+ 
 
 ## Conclusion
 This Markdown document provides an overview of the Todo List application, its components, functionality, and usage instructions. Users can refer to this document to understand how to use the application effectively.
