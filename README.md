@@ -55,7 +55,7 @@ This application is a simple Todo List manager built using React. It allows user
 
 ## Images
 
-Use ![alt text](https://drive.google.com/file/d/1MctrikTixtz9DG10Ec5FdfRdml08we1B/view?usp=sharing) for images.
+ ![Todo List](https://drive.google.com/file/d/1MctrikTixtz9DG10Ec5FdfRdml08we1B/view?usp=sharing)
 
 
 
